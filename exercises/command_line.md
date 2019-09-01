@@ -52,30 +52,24 @@ echo hello world
 passwd
 date
 hostname
-arch
 uname -a
-dmesg | more(you may need to press q to quit)
+dmesg | more
 uptime
-who am i
+whoami
 who
 id
-last
-finger
 w
-top (you may need to press q to quit)
+top
 echo $SHELL
 echo {con,pre}{sent,fer}{s,ed}
 man "automatic door"
-man ls (you may need to press q to quit)
-man who (you may need to press q to quit)
-who can tell me why i got divorced
-lost
+man ls
+man who
 clear
 cal 2000
-cal 9 1752(do you notice anything unusual?)
-bc -l(type quit or press Ctrl-d to quit)
+cal 9 1752
 echo 5+4 | bc -l
-yes please(you may need to press Ctrl-c to quit)
-time sleep 5
+yes please
+time sleep 10
 history
 ```
