@@ -1,0 +1,1 @@
+curl https://httpbin.org/image -H "Accept: image/jpeg" > image.jpg
